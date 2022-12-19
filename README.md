@@ -2,6 +2,8 @@
 
 An online food ordering system where a user can order food from nearby available restaurants. The Whole project is divided into four parts: Foodies (App), Riders (App), Restaurant (Website), and Admin (Website). User, Riders, and Restaurant ordering and communication are done in real-time.
 
+Apk for User & Rider Apps: https://drive.google.com/drive/folders/1-IVBvK8RtKUxY3uRHcCdOMFINj4jT2G9?usp=share_link
+
 
 ## Features
 
