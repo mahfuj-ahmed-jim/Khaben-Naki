@@ -21,11 +21,13 @@ Apk for User & Rider Apps: https://drive.google.com/drive/folders/1-IVBvK8RtKUxY
 - Android Studio
 - Cloud Server
 - Firebase
+- PHP
 - Laravel
 - Bootstrap
 - JavaScript
 - Java
 - Xml
+- Postman
 - CSS
 - Room Database
 - SQL
